@@ -1,0 +1,59 @@
+[{
+	"CanAddToCart": 1,
+	"CanNoReasonToReturn": 0,
+	"CanNoReasonToReturnText": "不支持7天无理由退货",
+	"CommodityCode": "1321418",
+	"CommodityId": "8c6ff1a3-2082-4194-81d8-9d5038ad1daf",
+	"CommodityName": "懒懒椰泰国椰青9个原箱700g/个",
+	"CommodityPrice": 89,
+	"CommodityPromotions": [
+		{"PromotionId": "9e7d67dd-9e64-498e-a8d6-d0ef93aab74e",
+		 "PromotionTitle": "懒懒椰泰国椰青9个",
+		  "PromotionType": 1,
+		  "PromotionTypeText": "优惠",
+			"Sort": 1
+		},
+		{"PromotionId": "44d967c4-5b26-44ad-b9dd-93b2109ebec4",
+		 "PromotionTitle": "订单满188元赠年货",
+		  "PromotionType": 4,
+		  "PromotionTypeText": "全网",
+			"Sort": 6
+		}
+	],
+	"DeliveryAreas": "上海,北京,江浙,天津,上海+,北京+,广州,广州+,福州,惠州3PL ",
+	"DeliveryTips": "24:00 前完成订单，预计明日(1月31日)送达",
+	"IsTimeDeliveryText": "",
+	"MaxLimitCount": 20,
+	"OriginalPrice": 129,
+	"Pictures": [
+		"http://img10.yiguoimg.com/d/items/2018/180122/9288718376018998_500.jpg",
+		"http://img12.yiguoimg.com/d/items/2018/180122/9288718375986230_500.jpg",
+		"http://img12.yiguoimg.com/d/items/2018/180122/9288718375953462_500.jpg"
+	],
+	"PlaceOfOrigin": "泰国",
+	"PromotionTag": "直降",
+	"ShippingAddress": "北京 崇文区 崇文区",
+	"ShowOriginalPrice": true,
+	"Speces": [
+		{
+			"CommodityId": "2f374a37-90a3-498b-b56c-f5985b6e0bd6",
+			"CommodityCode": "1326238",
+			"CommodityName": "懒懒椰泰国椰青2个700g/个",
+			"Spec": "2个/份"
+		},
+		{
+			"CommodityId": "13fd42fd-be46-4873-901f-334f3ce44559",
+			"CommodityCode": "1321447",
+			"CommodityName": "懒懒椰泰国椰青4个700g/个",
+			"Spec": "4个/份"
+		},
+		{
+			"CommodityId": "8c6ff1a3-2082-4194-81d8-9d5038ad1daf",
+			"CommodityCode": "1321418",
+			"CommodityName": "懒懒椰泰国椰青9个原箱700g/个",
+			"Spec": "9个/箱"
+		}
+	],
+	"State": 1,
+	"SubTitle": "低糖低卡 满满电解质"
+}]

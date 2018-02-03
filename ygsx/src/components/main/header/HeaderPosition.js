@@ -10,7 +10,7 @@ export default class Header extends Component {
 		return (
 			<div className="address">
 				<span>北京</span>
-				<i class="fa fa-sort-down (alias)"></i>
+				<i className="fa fa-sort-down (alias)"></i>
 			</div>
 		)
 	}

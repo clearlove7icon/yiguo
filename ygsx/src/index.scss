@@ -1,13 +1,13 @@
-
-
+@import './stylesheets/_reset.scss';
 
 @import './stylesheets/_common.scss';
 
 @import './stylesheets/main/_main.scss';
 
+@import './stylesheets/details/index.scss';
+
+@import './font/iconfont.css';
 
 .wrap {
-    
     width: 100%;
-    
 }
