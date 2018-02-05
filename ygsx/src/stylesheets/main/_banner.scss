@@ -1,0 +1,31 @@
+
+
+.banner-box{
+    width: 100%;
+    height: 3.31rem;
+    padding-top: 0.5rem;
+    .swiper-container {
+        width: 100%;
+        height: 2.17rem;
+       .swiper-wrapper{
+            width:100%;
+            height: 100%;
+            .swiper-slide{
+                 width:100%;
+                 height: 100%;
+                 img{
+                     width: 100%;
+                     height: 100%;
+                 }
+            }
+       }
+    }
+    .screen_banner{
+        height: 1.14rem;
+        width: 100%;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }  
+}
