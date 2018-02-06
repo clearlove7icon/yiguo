@@ -18,7 +18,7 @@ class Content extends Component {
 	componentWillMount() {
     let that = this
     axios.get('./json/details-recommend.json').then((res) => {
-			that.setState({recommend:res})
+			that.setState({recommend: res})
 		})
 	}
 	render() {
@@ -45,21 +45,6 @@ class Content extends Component {
 							{
 								item.Speces[0]?
 							<span>{item.Speces[0].Spec}</span>
-							:''
-							}
-							{
-								item.Speces[1]?
-							<span>{item.Speces[1].Spec}</span>
-							:''
-							}
-							{
-								item.Speces[2]?
-							<span>{item.Speces[2].Spec}</span>
-							:''
-							}
-							{
-								item.Speces[3]?
-							<span>{item.Speces[3].Spec}</span>
 							:''
 							}
 							</div>
